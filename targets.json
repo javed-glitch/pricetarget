@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T07:52:26.544131+00:00",
+  "updatedAt": "2026-08-13T07:53:27.363714+00:00",
   "targets": {
     "TSLA": {
       "target": 396.62,
@@ -26,7 +26,7 @@
       "numAnalysts": 21
     },
     "CRWV": {
-      "target": 141.83,
+      "target": 138.51,
       "high": 303.0,
       "low": 36.0,
       "numAnalysts": 35
@@ -92,9 +92,9 @@
       "numAnalysts": 18
     },
     "ASML": {
-      "target": 2172.32,
-      "high": 2866.26,
-      "low": 892.94,
+      "target": 2169.81,
+      "high": 2862.95,
+      "low": 891.91,
       "numAnalysts": 15
     },
     "AMAT": {
