@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-15T06:57:29.720140+00:00",
+  "updatedAt": "2026-08-16T06:59:02.067354+00:00",
   "targets": {
     "TSLA": {
-      "target": 396.62,
+      "target": 395.34,
       "high": 600.0,
       "low": 125.0,
       "numAnalysts": 40
@@ -20,22 +20,22 @@
       "numAnalysts": 58
     },
     "CEG": {
-      "target": 349.96,
+      "target": 348.45,
       "high": 441.0,
       "low": 290.0,
-      "numAnalysts": 21
+      "numAnalysts": 20
     },
     "CRWV": {
-      "target": 141.83,
+      "target": 143.26,
       "high": 303.0,
-      "low": 36.0,
+      "low": 39.0,
       "numAnalysts": 35
     },
     "NBIS": {
-      "target": 250.75,
-      "high": 410.0,
-      "low": 120.0,
-      "numAnalysts": 16
+      "target": 294.6,
+      "high": 324.0,
+      "low": 260.0,
+      "numAnalysts": 5
     },
     "ZETA": {
       "target": 31.0,
@@ -44,7 +44,7 @@
       "numAnalysts": 14
     },
     "BE": {
-      "target": 273.51,
+      "target": 275.08,
       "high": 390.0,
       "low": 97.0,
       "numAnalysts": 26
@@ -56,19 +56,19 @@
       "numAnalysts": 15
     },
     "CRWD": {
-      "target": 194.67,
-      "high": 250.0,
+      "target": 198.35,
+      "high": 256.0,
       "low": 103.25,
-      "numAnalysts": 49
+      "numAnalysts": 50
     },
     "DDOG": {
-      "target": 283.52,
+      "target": 285.18,
       "high": 330.0,
       "low": 158.0,
-      "numAnalysts": 45
+      "numAnalysts": 46
     },
     "MRVL": {
-      "target": 256.91,
+      "target": 257.29,
       "high": 400.0,
       "low": 126.0,
       "numAnalysts": 40
@@ -92,19 +92,19 @@
       "numAnalysts": 18
     },
     "ASML": {
-      "target": 2178.1,
+      "target": 2176.09,
       "high": 2873.89,
       "low": 895.31,
       "numAnalysts": 15
     },
     "AMAT": {
-      "target": 633.34,
+      "target": 638.17,
       "high": 900.0,
       "low": 358.0,
       "numAnalysts": 35
     },
     "ZS": {
-      "target": 192.55,
+      "target": 192.77,
       "high": 250.0,
       "low": 145.0,
       "numAnalysts": 44
