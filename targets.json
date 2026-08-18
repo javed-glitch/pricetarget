@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T07:16:12.973516+00:00",
+  "updatedAt": "2026-08-18T07:04:47.930966+00:00",
   "targets": {
     "TSLA": {
       "target": 395.34,
@@ -32,10 +32,10 @@
       "numAnalysts": 35
     },
     "NBIS": {
-      "target": 294.6,
-      "high": 324.0,
-      "low": 260.0,
-      "numAnalysts": 5
+      "target": 276.46,
+      "high": 410.0,
+      "low": 144.0,
+      "numAnalysts": 13
     },
     "ZETA": {
       "target": 31.0,
@@ -56,7 +56,7 @@
       "numAnalysts": 15
     },
     "CRWD": {
-      "target": 198.35,
+      "target": 199.55,
       "high": 256.0,
       "low": 103.25,
       "numAnalysts": 50
@@ -68,7 +68,7 @@
       "numAnalysts": 46
     },
     "MRVL": {
-      "target": 257.29,
+      "target": 256.91,
       "high": 400.0,
       "low": 126.0,
       "numAnalysts": 40
@@ -92,19 +92,19 @@
       "numAnalysts": 18
     },
     "ASML": {
-      "target": 2181.39,
-      "high": 2880.89,
-      "low": 897.49,
+      "target": 2176.85,
+      "high": 2874.89,
+      "low": 895.62,
       "numAnalysts": 15
     },
     "AMAT": {
-      "target": 638.17,
+      "target": 641.03,
       "high": 900.0,
       "low": 358.0,
       "numAnalysts": 35
     },
     "ZS": {
-      "target": 192.77,
+      "target": 194.02,
       "high": 250.0,
       "low": 145.0,
       "numAnalysts": 44
