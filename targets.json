@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T07:07:24.197278+00:00",
+  "updatedAt": "2026-08-22T06:59:23.543295+00:00",
   "targets": {
     "TSLA": {
       "target": 395.34,
@@ -92,9 +92,9 @@
       "numAnalysts": 18
     },
     "ASML": {
-      "target": 2200.28,
-      "high": 2905.84,
-      "low": 905.27,
+      "target": 2195.91,
+      "high": 2900.07,
+      "low": 903.47,
       "numAnalysts": 15
     },
     "AMAT": {
