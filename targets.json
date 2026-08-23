@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-08-22T06:59:23.543295+00:00",
+  "updatedAt": "2026-08-23T07:01:13.110649+00:00",
   "targets": {
     "TSLA": {
-      "target": 395.34,
+      "target": 390.09,
       "high": 600.0,
       "low": 125.0,
-      "numAnalysts": 40
+      "numAnalysts": 39
     },
     "PLTR": {
       "target": 191.68,
@@ -14,28 +14,28 @@
       "numAnalysts": 27
     },
     "NVDA": {
-      "target": 304.12,
+      "target": 304.73,
       "high": 500.0,
       "low": 180.0,
-      "numAnalysts": 58
+      "numAnalysts": 59
     },
     "CEG": {
-      "target": 347.5,
+      "target": 347.4,
       "high": 441.0,
       "low": 290.0,
       "numAnalysts": 20
     },
     "CRWV": {
-      "target": 143.26,
-      "high": 303.0,
+      "target": 144.17,
+      "high": 317.0,
       "low": 39.0,
       "numAnalysts": 35
     },
     "NBIS": {
-      "target": 271.85,
-      "high": 410.0,
+      "target": 283.93,
+      "high": 415.0,
       "low": 144.0,
-      "numAnalysts": 13
+      "numAnalysts": 15
     },
     "ZETA": {
       "target": 31.36,
@@ -56,7 +56,7 @@
       "numAnalysts": 15
     },
     "CRWD": {
-      "target": 207.7,
+      "target": 209.74,
       "high": 256.0,
       "low": 103.25,
       "numAnalysts": 50
@@ -68,10 +68,10 @@
       "numAnalysts": 46
     },
     "MRVL": {
-      "target": 259.91,
+      "target": 263.94,
       "high": 400.0,
       "low": 126.0,
-      "numAnalysts": 40
+      "numAnalysts": 41
     },
     "ANET": {
       "target": 241.82,
@@ -104,7 +104,7 @@
       "numAnalysts": 35
     },
     "ZS": {
-      "target": 196.95,
+      "target": 198.15,
       "high": 250.0,
       "low": 145.0,
       "numAnalysts": 44
