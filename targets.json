@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T13:50:11.903136+00:00",
+  "updatedAt": "2026-09-01T11:39:34.999065+00:00",
   "targets": {
     "TSLA": {
       "target": 390.09,
@@ -56,9 +56,9 @@
       "numAnalysts": 15
     },
     "CRWD": {
-      "target": 227.58,
+      "target": 229.31,
       "high": 265.0,
-      "low": 103.5,
+      "low": 119.0,
       "numAnalysts": 49
     },
     "DDOG": {
@@ -68,7 +68,7 @@
       "numAnalysts": 46
     },
     "MRVL": {
-      "target": 278.89,
+      "target": 279.62,
       "high": 400.0,
       "low": 126.0,
       "numAnalysts": 41
@@ -92,9 +92,9 @@
       "numAnalysts": 18
     },
     "ASML": {
-      "target": 2145.13,
-      "high": 2880.56,
-      "low": 897.39,
+      "target": 2144.88,
+      "high": 2880.22,
+      "low": 897.29,
       "numAnalysts": 16
     },
     "AMAT": {
