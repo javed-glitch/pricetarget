@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T11:18:52.636454+00:00",
+  "updatedAt": "2026-09-03T11:14:18.135493+00:00",
   "targets": {
     "TSLA": {
       "target": 390.09,
@@ -56,10 +56,10 @@
       "numAnalysts": 15
     },
     "CRWD": {
-      "target": 227.58,
-      "high": 265.0,
-      "low": 103.5,
-      "numAnalysts": 49
+      "target": 230.32,
+      "high": 300.0,
+      "low": 119.0,
+      "numAnalysts": 50
     },
     "DDOG": {
       "target": 285.18,
@@ -68,16 +68,16 @@
       "numAnalysts": 46
     },
     "MRVL": {
-      "target": 278.89,
+      "target": 284.8,
       "high": 400.0,
-      "low": 126.0,
+      "low": 143.0,
       "numAnalysts": 41
     },
     "ANET": {
-      "target": 241.82,
+      "target": 241.04,
       "high": 289.0,
       "low": 185.0,
-      "numAnalysts": 27
+      "numAnalysts": 28
     },
     "CDNS": {
       "target": 403.12,
@@ -92,9 +92,9 @@
       "numAnalysts": 19
     },
     "ASML": {
-      "target": 2141.15,
-      "high": 2875.22,
-      "low": 895.73,
+      "target": 2145.31,
+      "high": 2863.32,
+      "low": 898.22,
       "numAnalysts": 16
     },
     "AMAT": {
@@ -104,7 +104,7 @@
       "numAnalysts": 35
     },
     "ZS": {
-      "target": 198.88,
+      "target": 199.34,
       "high": 250.0,
       "low": 145.0,
       "numAnalysts": 44
