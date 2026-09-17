@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-16T11:33:54.489480+00:00",
+  "updatedAt": "2026-09-17T11:41:40.015544+00:00",
   "targets": {
     "TSLA": {
-      "target": 390.09,
+      "target": 396.94,
       "high": 600.0,
       "low": 125.0,
-      "numAnalysts": 39
+      "numAnalysts": 38
     },
     "PLTR": {
       "target": 196.84,
@@ -14,7 +14,7 @@
       "numAnalysts": 27
     },
     "NVDA": {
-      "target": 328.66,
+      "target": 328.49,
       "high": 515.0,
       "low": 180.0,
       "numAnalysts": 58
@@ -86,15 +86,15 @@
       "numAnalysts": 28
     },
     "TSM": {
-      "target": 551.26,
+      "target": 552.26,
       "high": 700.0,
       "low": 440.0,
       "numAnalysts": 20
     },
     "ASML": {
-      "target": 2147.25,
-      "high": 2859.33,
-      "low": 892.94,
+      "target": 2134.2,
+      "high": 2841.95,
+      "low": 887.51,
       "numAnalysts": 16
     },
     "AMAT": {
