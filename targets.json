@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T10:59:04.514822+00:00",
+  "updatedAt": "2026-09-20T11:23:45.076556+00:00",
   "targets": {
     "TSLA": {
       "target": 396.94,
@@ -14,13 +14,13 @@
       "numAnalysts": 27
     },
     "NVDA": {
-      "target": 328.49,
+      "target": 327.7,
       "high": 515.0,
       "low": 180.0,
-      "numAnalysts": 58
+      "numAnalysts": 59
     },
     "CEG": {
-      "target": 348.3,
+      "target": 348.55,
       "high": 441.0,
       "low": 290.0,
       "numAnalysts": 20
@@ -56,7 +56,7 @@
       "numAnalysts": 15
     },
     "CRWD": {
-      "target": 234.35,
+      "target": 235.35,
       "high": 300.0,
       "low": 132.0,
       "numAnalysts": 50
@@ -92,9 +92,9 @@
       "numAnalysts": 20
     },
     "ASML": {
-      "target": 2137.39,
-      "high": 2846.19,
-      "low": 888.83,
+      "target": 2137.63,
+      "high": 2846.52,
+      "low": 888.93,
       "numAnalysts": 16
     },
     "AMAT": {
