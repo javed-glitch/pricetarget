@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T11:50:57.665207+00:00",
+  "updatedAt": "2026-09-26T11:25:01.004100+00:00",
   "targets": {
     "TSLA": {
       "target": 396.62,
@@ -62,8 +62,8 @@
       "numAnalysts": 50
     },
     "DDOG": {
-      "target": 285.28,
-      "high": 330.0,
+      "target": 286.26,
+      "high": 340.0,
       "low": 158.0,
       "numAnalysts": 46
     },
@@ -80,10 +80,10 @@
       "numAnalysts": 28
     },
     "CDNS": {
-      "target": 403.38,
+      "target": 405.47,
       "high": 470.0,
       "low": 300.0,
-      "numAnalysts": 27
+      "numAnalysts": 26
     },
     "TSM": {
       "target": 552.26,
@@ -92,9 +92,9 @@
       "numAnalysts": 20
     },
     "ASML": {
-      "target": 2122.27,
-      "high": 2826.06,
-      "low": 882.55,
+      "target": 2123.3,
+      "high": 2824.13,
+      "low": 881.94,
       "numAnalysts": 16
     },
     "AMAT": {
@@ -104,7 +104,7 @@
       "numAnalysts": 35
     },
     "ZS": {
-      "target": 208.86,
+      "target": 209.68,
       "high": 298.0,
       "low": 155.0,
       "numAnalysts": 44
