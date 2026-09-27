@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T11:25:01.004100+00:00",
+  "updatedAt": "2026-09-27T12:02:22.317145+00:00",
   "targets": {
     "TSLA": {
       "target": 396.62,
@@ -26,10 +26,10 @@
       "numAnalysts": 20
     },
     "CRWV": {
-      "target": 141.08,
+      "target": 141.58,
       "high": 317.0,
       "low": 39.0,
-      "numAnalysts": 37
+      "numAnalysts": 38
     },
     "NBIS": {
       "target": 283.58,
@@ -92,9 +92,9 @@
       "numAnalysts": 20
     },
     "ASML": {
-      "target": 2123.3,
-      "high": 2824.13,
-      "low": 881.94,
+      "target": 2123.54,
+      "high": 2824.45,
+      "low": 882.04,
       "numAnalysts": 16
     },
     "AMAT": {
