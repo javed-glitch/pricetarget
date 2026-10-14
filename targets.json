@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T14:11:44.008406+00:00",
+  "updatedAt": "2026-10-14T11:51:55.909805+00:00",
   "targets": {
     "TSLA": {
       "target": 397.83,
@@ -44,7 +44,7 @@
       "numAnalysts": 14
     },
     "BE": {
-      "target": 281.66,
+      "target": 283.01,
       "high": 380.0,
       "low": 97.0,
       "numAnalysts": 26
@@ -62,7 +62,7 @@
       "numAnalysts": 50
     },
     "DDOG": {
-      "target": 288.89,
+      "target": 289.74,
       "high": 340.0,
       "low": 158.0,
       "numAnalysts": 47
@@ -92,9 +92,9 @@
       "numAnalysts": 20
     },
     "ASML": {
-      "target": 2110.76,
-      "high": 2897.38,
-      "low": 866.24,
+      "target": 2111.23,
+      "high": 2898.02,
+      "low": 866.44,
       "numAnalysts": 16
     },
     "AMAT": {
