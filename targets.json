@@ -1,50 +1,50 @@
 {
-  "updatedAt": "2026-10-22T11:52:27.594596+00:00",
+  "updatedAt": "2026-10-23T11:39:05.779584+00:00",
   "targets": {
     "TSLA": {
-      "target": 397.83,
+      "target": 408.36,
       "high": 600.0,
       "low": 128.11,
       "numAnalysts": 38
     },
     "PLTR": {
-      "target": 206.43,
+      "target": 206.62,
       "high": 265.0,
       "low": 80.0,
       "numAnalysts": 26
     },
     "NVDA": {
-      "target": 328.72,
+      "target": 328.95,
       "high": 515.0,
       "low": 180.0,
-      "numAnalysts": 59
+      "numAnalysts": 58
     },
     "CEG": {
-      "target": 338.21,
+      "target": 338.07,
       "high": 395.0,
       "low": 238.0,
-      "numAnalysts": 22
+      "numAnalysts": 23
     },
     "CRWV": {
-      "target": 138.34,
+      "target": 136.21,
       "high": 278.0,
       "low": 39.0,
       "numAnalysts": 38
     },
     "NBIS": {
-      "target": 283.6,
+      "target": 281.0,
       "high": 410.0,
       "low": 84.0,
       "numAnalysts": 20
     },
     "ZETA": {
-      "target": 37.86,
+      "target": 38.29,
       "high": 55.0,
       "low": 25.0,
       "numAnalysts": 14
     },
     "BE": {
-      "target": 286.7,
+      "target": 285.08,
       "high": 380.0,
       "low": 97.0,
       "numAnalysts": 26
@@ -56,7 +56,7 @@
       "numAnalysts": 15
     },
     "CRWD": {
-      "target": 246.15,
+      "target": 246.65,
       "high": 325.0,
       "low": 132.0,
       "numAnalysts": 50
@@ -68,10 +68,10 @@
       "numAnalysts": 47
     },
     "MRVL": {
-      "target": 341.63,
+      "target": 341.44,
       "high": 450.0,
       "low": 229.95,
-      "numAnalysts": 44
+      "numAnalysts": 43
     },
     "ANET": {
       "target": 243.59,
@@ -92,9 +92,9 @@
       "numAnalysts": 20
     },
     "ASML": {
-      "target": 2142.22,
-      "high": 2845.87,
-      "low": 866.34,
+      "target": 2141.74,
+      "high": 2845.24,
+      "low": 866.14,
       "numAnalysts": 17
     },
     "AMAT": {
@@ -104,7 +104,7 @@
       "numAnalysts": 36
     },
     "ZS": {
-      "target": 233.31,
+      "target": 234.19,
       "high": 298.0,
       "low": 164.75,
       "numAnalysts": 45
