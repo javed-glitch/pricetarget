@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T12:54:04.576594+00:00",
+  "updatedAt": "2026-10-29T13:00:26.273547+00:00",
   "targets": {
     "TSLA": {
       "target": 410.68,
@@ -20,7 +20,7 @@
       "numAnalysts": 58
     },
     "CEG": {
-      "target": 339.07,
+      "target": 338.42,
       "high": 399.0,
       "low": 238.0,
       "numAnalysts": 23
@@ -68,10 +68,10 @@
       "numAnalysts": 47
     },
     "MRVL": {
-      "target": 341.44,
+      "target": 340.56,
       "high": 450.0,
       "low": 229.95,
-      "numAnalysts": 43
+      "numAnalysts": 44
     },
     "ANET": {
       "target": 243.59,
@@ -80,10 +80,10 @@
       "numAnalysts": 29
     },
     "CDNS": {
-      "target": 410.29,
+      "target": 411.76,
       "high": 470.0,
       "low": 300.0,
-      "numAnalysts": 25
+      "numAnalysts": 24
     },
     "TSM": {
       "target": 584.39,
@@ -92,9 +92,9 @@
       "numAnalysts": 20
     },
     "ASML": {
-      "target": 2135.35,
-      "high": 2829.4,
-      "low": 861.32,
+      "target": 2134.87,
+      "high": 2828.77,
+      "low": 861.13,
       "numAnalysts": 17
     },
     "AMAT": {
