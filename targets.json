@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T12:29:00.902210+00:00",
+  "updatedAt": "2026-10-31T18:35:23.722865+00:00",
   "targets": {
     "TSLA": {
       "target": 411.82,
@@ -19,83 +19,11 @@
       "low": 180.0,
       "numAnalysts": 58
     },
-    "CEG": {
-      "target": 339.68,
-      "high": 399.0,
-      "low": 238.0,
-      "numAnalysts": 23
-    },
-    "CRWV": {
-      "target": 134.58,
-      "high": 278.0,
-      "low": 39.0,
-      "numAnalysts": 38
-    },
-    "NBIS": {
-      "target": 281.0,
-      "high": 410.0,
-      "low": 84.0,
-      "numAnalysts": 20
-    },
     "ZETA": {
       "target": 38.29,
       "high": 55.0,
       "low": 25.0,
       "numAnalysts": 14
-    },
-    "BE": {
-      "target": 284.88,
-      "high": 380.0,
-      "low": 102.0,
-      "numAnalysts": 26
-    },
-    "TER": {
-      "target": 424.67,
-      "high": 550.0,
-      "low": 340.0,
-      "numAnalysts": 15
-    },
-    "CRWD": {
-      "target": 247.25,
-      "high": 325.0,
-      "low": 132.0,
-      "numAnalysts": 50
-    },
-    "DDOG": {
-      "target": 294.49,
-      "high": 350.0,
-      "low": 158.0,
-      "numAnalysts": 47
-    },
-    "MRVL": {
-      "target": 340.56,
-      "high": 450.0,
-      "low": 229.95,
-      "numAnalysts": 44
-    },
-    "ANET": {
-      "target": 243.59,
-      "high": 290.0,
-      "low": 190.0,
-      "numAnalysts": 29
-    },
-    "CDNS": {
-      "target": 411.76,
-      "high": 470.0,
-      "low": 300.0,
-      "numAnalysts": 24
-    },
-    "TSM": {
-      "target": 584.39,
-      "high": 1000.0,
-      "low": 440.0,
-      "numAnalysts": 20
-    },
-    "ASML": {
-      "target": 2141.55,
-      "high": 2837.61,
-      "low": 863.82,
-      "numAnalysts": 17
     },
     "AMAT": {
       "target": 627.83,
@@ -103,11 +31,47 @@
       "low": 358.0,
       "numAnalysts": 36
     },
-    "ZS": {
-      "target": 235.19,
-      "high": 298.0,
-      "low": 164.75,
+    "AMD": {
+      "target": 640.21,
+      "high": 1250.0,
+      "low": 365.0,
+      "numAnalysts": 50
+    },
+    "MU": {
+      "target": 1561.91,
+      "high": 3000.0,
+      "low": 361.0,
       "numAnalysts": 45
+    },
+    "AVGO": {
+      "target": 530.14,
+      "high": 660.0,
+      "low": 215.88,
+      "numAnalysts": 48
+    },
+    "GOOGL": {
+      "target": 406.55,
+      "high": 500.0,
+      "low": 325.0,
+      "numAnalysts": 52
+    },
+    "APP": {
+      "target": 452.95,
+      "high": 625.0,
+      "low": 325.0,
+      "numAnalysts": 31
+    },
+    "BE": {
+      "target": 284.88,
+      "high": 380.0,
+      "low": 102.0,
+      "numAnalysts": 26
+    },
+    "MRVL": {
+      "target": 340.56,
+      "high": 450.0,
+      "low": 229.95,
+      "numAnalysts": 44
     }
   }
 }
