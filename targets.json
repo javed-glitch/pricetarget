@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T12:55:35.238516+00:00",
+  "updatedAt": "2026-10-31T12:29:00.902210+00:00",
   "targets": {
     "TSLA": {
       "target": 411.82,
@@ -20,7 +20,7 @@
       "numAnalysts": 58
     },
     "CEG": {
-      "target": 339.11,
+      "target": 339.68,
       "high": 399.0,
       "low": 238.0,
       "numAnalysts": 23
@@ -44,7 +44,7 @@
       "numAnalysts": 14
     },
     "BE": {
-      "target": 284.77,
+      "target": 284.88,
       "high": 380.0,
       "low": 102.0,
       "numAnalysts": 26
@@ -92,9 +92,9 @@
       "numAnalysts": 20
     },
     "ASML": {
-      "target": 2143.7,
-      "high": 2840.47,
-      "low": 864.69,
+      "target": 2141.55,
+      "high": 2837.61,
+      "low": 863.82,
       "numAnalysts": 17
     },
     "AMAT": {
