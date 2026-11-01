@@ -159,7 +159,17 @@
    "pence": true,
    "sym": "EQQQ",
    "yahoo": "EQQQ.L"
+  },
+  {
+   "ccy": "\u00a3",
+   "etf": true,
+   "feeds": [
+    "cycle"
+   ],
+   "group": "Core",
+   "sym": "SMGB",
+   "yahoo": "SMGB.L"
   }
  ],
- "updated": "2026-10-31"
+ "updated": "2026-11-01"
 }

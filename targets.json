@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T18:37:40.864911+00:00",
+  "updatedAt": "2026-11-01T13:24:26.749322+00:00",
   "targets": {
     "TSLA": {
       "target": 411.82,
@@ -26,10 +26,10 @@
       "numAnalysts": 14
     },
     "AMAT": {
-      "target": 627.83,
+      "target": 627.54,
       "high": 900.0,
       "low": 358.0,
-      "numAnalysts": 36
+      "numAnalysts": 37
     },
     "AMD": {
       "target": 640.21,
@@ -56,7 +56,7 @@
       "numAnalysts": 52
     },
     "APP": {
-      "target": 452.95,
+      "target": 448.43,
       "high": 625.0,
       "low": 325.0,
       "numAnalysts": 31
