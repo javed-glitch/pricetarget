@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-01T13:24:26.749322+00:00",
+  "updatedAt": "2026-11-02T15:51:43.990595+00:00",
   "targets": {
     "TSLA": {
-      "target": 411.82,
+      "target": 413.1,
       "high": 600.0,
       "low": 128.11,
       "numAnalysts": 40
@@ -32,10 +32,10 @@
       "numAnalysts": 37
     },
     "AMD": {
-      "target": 640.21,
+      "target": 645.82,
       "high": 1250.0,
-      "low": 365.0,
-      "numAnalysts": 50
+      "low": 430.0,
+      "numAnalysts": 49
     },
     "MU": {
       "target": 1561.91,
