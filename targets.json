@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T15:51:43.990595+00:00",
+  "updatedAt": "2026-11-03T14:13:33.911891+00:00",
   "targets": {
     "TSLA": {
       "target": 413.1,
@@ -26,13 +26,13 @@
       "numAnalysts": 14
     },
     "AMAT": {
-      "target": 627.54,
+      "target": 626.86,
       "high": 900.0,
       "low": 358.0,
       "numAnalysts": 37
     },
     "AMD": {
-      "target": 645.82,
+      "target": 646.74,
       "high": 1250.0,
       "low": 430.0,
       "numAnalysts": 49
@@ -50,10 +50,10 @@
       "numAnalysts": 48
     },
     "GOOGL": {
-      "target": 406.55,
+      "target": 402.73,
       "high": 500.0,
-      "low": 325.0,
-      "numAnalysts": 52
+      "low": 300.0,
+      "numAnalysts": 53
     },
     "APP": {
       "target": 448.43,
@@ -68,10 +68,10 @@
       "numAnalysts": 26
     },
     "MRVL": {
-      "target": 340.56,
+      "target": 333.09,
       "high": 450.0,
-      "low": 229.95,
-      "numAnalysts": 44
+      "low": 225.0,
+      "numAnalysts": 41
     }
   }
 }
