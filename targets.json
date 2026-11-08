@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T12:59:59.697941+00:00",
+  "updatedAt": "2026-11-08T13:24:28.900190+00:00",
   "targets": {
     "TSLA": {
       "target": 413.1,
@@ -32,10 +32,10 @@
       "numAnalysts": 37
     },
     "AMD": {
-      "target": 656.24,
+      "target": 659.77,
       "high": 1250.0,
-      "low": 490.0,
-      "numAnalysts": 48
+      "low": 540.0,
+      "numAnalysts": 47
     },
     "MU": {
       "target": 1561.91,
@@ -44,10 +44,10 @@
       "numAnalysts": 45
     },
     "AVGO": {
-      "target": 526.81,
+      "target": 533.42,
       "high": 660.0,
-      "low": 215.88,
-      "numAnalysts": 48
+      "low": 400.0,
+      "numAnalysts": 47
     },
     "GOOGL": {
       "target": 400.37,
