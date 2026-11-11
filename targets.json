@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T14:52:49.203406+00:00",
+  "updatedAt": "2026-11-11T14:22:15.149331+00:00",
   "targets": {
     "TSLA": {
       "target": 412.48,
@@ -20,9 +20,9 @@
       "numAnalysts": 57
     },
     "ZETA": {
-      "target": 38.64,
+      "target": 39.86,
       "high": 55.0,
-      "low": 25.0,
+      "low": 29.0,
       "numAnalysts": 14
     },
     "AMAT": {
@@ -56,10 +56,10 @@
       "numAnalysts": 53
     },
     "APP": {
-      "target": 459.79,
-      "high": 625.0,
+      "target": 454.28,
+      "high": 610.0,
       "low": 345.0,
-      "numAnalysts": 31
+      "numAnalysts": 30
     },
     "BE": {
       "target": 283.85,
