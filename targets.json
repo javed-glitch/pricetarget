@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T13:31:05.460251+00:00",
+  "updatedAt": "2026-11-15T13:55:50.103092+00:00",
   "targets": {
     "TSLA": {
       "target": 412.48,
@@ -14,22 +14,22 @@
       "numAnalysts": 28
     },
     "NVDA": {
-      "target": 283.31,
+      "target": 276.56,
       "high": 515.0,
-      "low": 174.0,
+      "low": 170.0,
       "numAnalysts": 53
     },
     "ZETA": {
-      "target": 39.86,
+      "target": 40.14,
       "high": 55.0,
-      "low": 29.0,
+      "low": 33.0,
       "numAnalysts": 14
     },
     "AMAT": {
-      "target": 588.61,
+      "target": 566.14,
       "high": 900.0,
       "low": 358.0,
-      "numAnalysts": 36
+      "numAnalysts": 35
     },
     "AMD": {
       "target": 657.74,
@@ -56,9 +56,9 @@
       "numAnalysts": 53
     },
     "APP": {
-      "target": 449.61,
+      "target": 453.28,
       "high": 600.0,
-      "low": 345.0,
+      "low": 347.0,
       "numAnalysts": 30
     },
     "BE": {
