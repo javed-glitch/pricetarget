@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T13:55:50.103092+00:00",
+  "updatedAt": "2026-11-16T15:46:18.406540+00:00",
   "targets": {
     "TSLA": {
       "target": 412.48,
@@ -8,16 +8,16 @@
       "numAnalysts": 40
     },
     "PLTR": {
-      "target": 222.25,
+      "target": 223.43,
       "high": 273.0,
       "low": 80.0,
       "numAnalysts": 28
     },
     "NVDA": {
-      "target": 276.56,
+      "target": 268.76,
       "high": 515.0,
-      "low": 170.0,
-      "numAnalysts": 53
+      "low": 130.0,
+      "numAnalysts": 54
     },
     "ZETA": {
       "target": 40.14,
@@ -44,7 +44,7 @@
       "numAnalysts": 45
     },
     "AVGO": {
-      "target": 529.24,
+      "target": 528.17,
       "high": 660.0,
       "low": 398.47,
       "numAnalysts": 47
