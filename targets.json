@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T15:59:10.327409+00:00",
+  "updatedAt": "2026-11-18T15:39:20.152484+00:00",
   "targets": {
     "TSLA": {
       "target": 412.48,
@@ -8,16 +8,16 @@
       "numAnalysts": 40
     },
     "PLTR": {
-      "target": 223.43,
+      "target": 222.9,
       "high": 273.0,
       "low": 80.0,
-      "numAnalysts": 28
+      "numAnalysts": 29
     },
     "NVDA": {
-      "target": 267.65,
+      "target": 265.23,
       "high": 515.0,
       "low": 130.0,
-      "numAnalysts": 54
+      "numAnalysts": 55
     },
     "ZETA": {
       "target": 40.14,
