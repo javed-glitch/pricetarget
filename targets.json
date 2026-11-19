@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T15:39:20.152484+00:00",
+  "updatedAt": "2026-11-19T15:44:23.833083+00:00",
   "targets": {
     "TSLA": {
       "target": 412.48,
@@ -14,8 +14,8 @@
       "numAnalysts": 29
     },
     "NVDA": {
-      "target": 265.23,
-      "high": 515.0,
+      "target": 246.67,
+      "high": 425.0,
       "low": 130.0,
       "numAnalysts": 55
     },
@@ -44,13 +44,13 @@
       "numAnalysts": 45
     },
     "AVGO": {
-      "target": 528.17,
+      "target": 526.47,
       "high": 660.0,
       "low": 398.47,
       "numAnalysts": 47
     },
     "GOOGL": {
-      "target": 400.37,
+      "target": 400.15,
       "high": 500.0,
       "low": 300.0,
       "numAnalysts": 53
