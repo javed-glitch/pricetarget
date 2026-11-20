@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T15:44:23.833083+00:00",
+  "updatedAt": "2026-11-20T15:26:50.910013+00:00",
   "targets": {
     "TSLA": {
       "target": 412.48,
@@ -26,7 +26,7 @@
       "numAnalysts": 14
     },
     "AMAT": {
-      "target": 561.89,
+      "target": 557.86,
       "high": 900.0,
       "low": 358.0,
       "numAnalysts": 36
@@ -56,19 +56,19 @@
       "numAnalysts": 53
     },
     "APP": {
-      "target": 455.61,
+      "target": 456.58,
       "high": 600.0,
       "low": 347.0,
       "numAnalysts": 30
     },
     "BE": {
-      "target": 283.85,
+      "target": 282.69,
       "high": 380.0,
       "low": 102.0,
       "numAnalysts": 26
     },
     "MRVL": {
-      "target": 310.89,
+      "target": 309.14,
       "high": 450.0,
       "low": 175.0,
       "numAnalysts": 40
