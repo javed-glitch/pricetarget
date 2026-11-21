@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-20T15:26:50.910013+00:00",
+  "updatedAt": "2026-11-21T14:39:11.324073+00:00",
   "targets": {
     "TSLA": {
-      "target": 412.48,
+      "target": 417.53,
       "high": 600.0,
       "low": 128.11,
       "numAnalysts": 40
@@ -14,10 +14,10 @@
       "numAnalysts": 29
     },
     "NVDA": {
-      "target": 246.67,
+      "target": 244.18,
       "high": 425.0,
       "low": 130.0,
-      "numAnalysts": 55
+      "numAnalysts": 56
     },
     "ZETA": {
       "target": 40.14,
@@ -50,16 +50,16 @@
       "numAnalysts": 47
     },
     "GOOGL": {
-      "target": 400.15,
+      "target": 397.13,
       "high": 500.0,
       "low": 300.0,
       "numAnalysts": 53
     },
     "APP": {
-      "target": 456.58,
+      "target": 458.11,
       "high": 600.0,
       "low": 347.0,
-      "numAnalysts": 30
+      "numAnalysts": 31
     },
     "BE": {
       "target": 282.69,
