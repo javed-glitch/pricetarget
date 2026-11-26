@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T17:13:23.631877+00:00",
+  "updatedAt": "2026-11-26T16:53:46.368244+00:00",
   "targets": {
     "TSLA": {
       "target": 419.05,
@@ -14,10 +14,10 @@
       "numAnalysts": 29
     },
     "NVDA": {
-      "target": 244.71,
+      "target": 242.43,
       "high": 425.0,
       "low": 130.0,
-      "numAnalysts": 58
+      "numAnalysts": 59
     },
     "ZETA": {
       "target": 40.14,
@@ -32,7 +32,7 @@
       "numAnalysts": 36
     },
     "AMD": {
-      "target": 656.21,
+      "target": 649.89,
       "high": 1250.0,
       "low": 525.0,
       "numAnalysts": 49
@@ -44,13 +44,13 @@
       "numAnalysts": 45
     },
     "AVGO": {
-      "target": 525.51,
+      "target": 523.28,
       "high": 660.0,
       "low": 398.47,
       "numAnalysts": 47
     },
     "GOOGL": {
-      "target": 395.48,
+      "target": 395.11,
       "high": 500.0,
       "low": 300.0,
       "numAnalysts": 54
@@ -62,16 +62,16 @@
       "numAnalysts": 31
     },
     "BE": {
-      "target": 282.69,
+      "target": 279.31,
       "high": 380.0,
       "low": 102.0,
       "numAnalysts": 26
     },
     "MRVL": {
-      "target": 301.02,
+      "target": 298.99,
       "high": 450.0,
       "low": 175.0,
-      "numAnalysts": 40
+      "numAnalysts": 39
     }
   }
 }
