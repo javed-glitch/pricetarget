@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T16:39:36.614004+00:00",
+  "updatedAt": "2026-11-28T15:31:07.691608+00:00",
   "targets": {
     "TSLA": {
       "target": 419.05,
@@ -8,7 +8,7 @@
       "numAnalysts": 41
     },
     "PLTR": {
-      "target": 222.9,
+      "target": 221.93,
       "high": 273.0,
       "low": 80.0,
       "numAnalysts": 29
@@ -68,7 +68,7 @@
       "numAnalysts": 26
     },
     "MRVL": {
-      "target": 298.99,
+      "target": 292.58,
       "high": 450.0,
       "low": 175.0,
       "numAnalysts": 39
